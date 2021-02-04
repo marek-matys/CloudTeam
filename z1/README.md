@@ -5,5 +5,5 @@
 <p> 4. Install Terraform </p>
 <p> 5. Install AWS Cli </p>
 <p> 6. Run AWS configure </p>
-<p> 7. Create access key to use for EC2 access with ssh -t rsa </p>
-
+<p> 7. Create access key to use for EC2 access with <i> ssh -t rsa </i> </p>
+<p> 8. Install jq package <i> apt-get install jq </i> </p>
